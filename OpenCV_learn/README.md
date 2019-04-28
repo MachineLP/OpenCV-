@@ -31,5 +31,15 @@ code_027 | [OpenCV之边缘保留滤波算法 – 均值迁移模糊(mean-shift 
 code_028 | [OpenCV之图像积分图算法](./code_028) 
 code_029 | [OpenCV之快速的图像边缘滤波算法](./code_029) 
 code_030 | [OpenCV之自定义滤波器](./code_030) 
+code_031 | [OpenCV之Sobel算子](./code_031) 
+code_032 | [OpenCV之更多梯度算子](./code_032) 
+code_033 | [OpenCV之图像梯度 – 拉普拉斯算子(二阶导数算子)](./code_033) 
+code_034 | [OpenCV之图像锐化](./code_034) 
+code_035 | [OpenCV之USM 锐化增强算法](./code_035) 
+code_036 | [OpenCV之Canny边缘检测器](./code_036) 
+code_037 | [OpenCV之图像金字塔](./code_037) 
+code_038 | [OpenCV之拉普拉斯金字塔](./code_038) 
+code_039 | [OpenCV之图像模板匹配](./code_039) 
+code_040 | [OpenCV之二值图像介绍](./code_040) 
 
 
